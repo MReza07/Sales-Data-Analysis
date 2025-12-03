@@ -1,6 +1,10 @@
 # Sales-Data-Analysis
 This repository contains a comprehensive Sales Report Dashboard designed to visualize and analyze sales data effectively. The dashboard provides insights into revenue, costs, units sold, gross profit, and growth trends across various dimensions such as time, product categories, and sales representatives.
 
+📷 Dashboard Preview:
+<img width="834" height="537" alt="Total Revenue By Year   Product name_breakdown" src="https://github.com/user-attachments/assets/245f81e1-3701-4a10-a5c3-e9d94563004b" />
+
+
 
 Sales Report Dashboard:
 
