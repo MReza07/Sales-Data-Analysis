@@ -1,22 +1,16 @@
-# Sales-Data-Analysis
-This repository contains a comprehensive Sales Report Dashboard designed to visualize and analyze sales data effectively. The dashboard provides insights into revenue, costs, units sold, gross profit, and growth trends across various dimensions such as time, product categories, and sales representatives.
+📊 Sales Data Analysis – Power BI Dashboard
+
+A complete end-to-end Sales Analytics project designed to transform raw sales data into meaningful insights. This dashboard provides a clear view of sales trends, revenue performance, customer segments, product profitability, regional growth patterns, and KPI tracking to support strategic business decision-making.
+
+🚀 Project Overview
+
+This project analyzes historical sales data to uncover key business metrics such as total revenue, sales by region, product category performance, customer purchasing patterns, and time-based sales trends.
+The goal is to help stakeholders make data-driven decisions that improve revenue, optimize product strategy, and boost operational efficiency.
 
 📷 Dashboard Preview:
 
 <img width="859" height="867" alt="Sales Report" src="https://github.com/user-attachments/assets/ca58a674-53be-4211-b267-19dbbfd6a6b9" />
 
-<img width="834" height="537" alt="Total Revenue By Year   Product name_breakdown" src="https://github.com/user-attachments/assets/245f81e1-3701-4a10-a5c3-e9d94563004b" />
-
-<img width="836" height="550" alt="Gross Profit By MOM Growth" src="https://github.com/user-attachments/assets/2b5fdb23-b8ee-4992-a73f-57d4ca45736a" />
-
-<img width="834" height="537" alt="Total Revenue By Year   Product name_breakdown" src="https://github.com/user-attachments/assets/d0b9e3da-8ec0-400c-839d-6aa28ee25bc4" />
-
-Sales Report Dashboard:
-
-Overview
-
-This repository contains a comprehensive Sales Report Dashboard designed to visualize and analyze sales data effectively. The dashboard provides insights into revenue, costs, units sold, gross profit, and growth trends across various dimensions such as time, product categories, and sales representatives. ​
-Features
 
 Key Metrics Overview:
 Displays total revenue, total cost, total units sold, gross profit, and gross profit percentage.
@@ -54,7 +48,81 @@ Pie Charts: For category revenue distribution.
 
 Line Graphs: For QtQ and MOM growth trends.
 
-Tables: For detailed revenue and profit data by date, month, and year. ​
+Tables: For detailed revenue and profit data by date, month, and year.
+
+🛠️ Tools & Technologies
+
+Power BI Desktop – Data modeling, visualization, DAX
+
+Excel / CSV – Data sources
+
+Power Query – Data cleaning & transformation
+
+DAX Measures – KPI formulas and advanced calculations​
+
+📁 Project Structure
+
+│── Data/
+
+│     └── Dataset.xlsx
+
+│── PBIX/
+│     └── Sales Data Analysis.pbix
+
+│── Schreenshots/
+
+│     └── Sales Report png
+
+│── README.md
+
+
+📊 Dashboard Features
+
+Interactive filters for Region, Product, Customer Segment, Year, Category
+
+Drill-through pages for product-level and customer-level analysis
+
+Visual KPIs:
+
+Total Sales
+
+Total Profit
+
+Total Quantity Sold
+
+Average Discount
+
+YoY Growth
+
+Comparison charts: Actual vs Target Sales
+
+Trend charts for monthly and quarterly patterns
+
+Regional maps for geographic sales insights
+
+📐 Sample DAX Measures
+
+Total Sales = SUM('Sales'[SalesAmount])
+
+Total Profit = SUM('Sales'[Profit])
+
+
+YoY Growth % = 
+VAR CurrentYear = CALCULATE([Total Sales], YEAR('Sales'[OrderDate]) = MAX(YEAR('Sales'[OrderDate])))
+VAR LastYear = CALCULATE([Total Sales], YEAR('Sales'[OrderDate]) = MAX(YEAR('Sales'[OrderDate])) - 1)
+RETURN DIVIDE(CurrentYear - LastYear, LastYear)
+
+🧠 Key Outcomes
+
+Identified top-selling regions and products contributing most to revenue
+
+Highlighted loss-making products with high discount dependency
+
+Revealed seasonal peaks such as Q4 sales boost
+
+Shown customer segment insights to support targeted marketing
+
+Provided actionable insights for pricing, promotions, and inventory planning
 
 Usage
 
@@ -70,30 +138,15 @@ Usage
 5. Navigate between pages using left panel in Power BI.
 Data Sources
 
-The data used in this dashboard includes:
+📜 License
 
-Revenue and cost figures from 2014 to 2017.
-​
-Gross profit calculations and growth percentages.
-​
-Sales performance by representatives and product categories.
-
-
-Future Enhancements
-
-Integration with live data sources for real-time updates.
-
-Advanced filtering options for customized analysis.
-
-Predictive analytics to forecast future sales trends.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-Contributing
+This project is released under the MIT License.
 
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
 
-Contact
+👤 Contact
+
+For collaboration or dashboard development:
 
 📧 Email:reazulrepon@gmail.com
 
