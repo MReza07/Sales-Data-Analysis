@@ -2,9 +2,14 @@
 This repository contains a comprehensive Sales Report Dashboard designed to visualize and analyze sales data effectively. The dashboard provides insights into revenue, costs, units sold, gross profit, and growth trends across various dimensions such as time, product categories, and sales representatives.
 
 📷 Dashboard Preview:
+
+<img width="859" height="867" alt="Sales Report" src="https://github.com/user-attachments/assets/ca58a674-53be-4211-b267-19dbbfd6a6b9" />
+
 <img width="834" height="537" alt="Total Revenue By Year   Product name_breakdown" src="https://github.com/user-attachments/assets/245f81e1-3701-4a10-a5c3-e9d94563004b" />
 
+<img width="836" height="550" alt="Gross Profit By MOM Growth" src="https://github.com/user-attachments/assets/2b5fdb23-b8ee-4992-a73f-57d4ca45736a" />
 
+<img width="834" height="537" alt="Total Revenue By Year   Product name_breakdown" src="https://github.com/user-attachments/assets/d0b9e3da-8ec0-400c-839d-6aa28ee25bc4" />
 
 Sales Report Dashboard:
 
