@@ -59,9 +59,6 @@ Usage
 4. Go to Home → Transform Data → Refresh to load latest dataset.
 
 5. Navigate between pages using left panel in Power BI.
-6. 
-<img width="959" height="217" alt="image" src="https://github.com/user-attachments/assets/0736eadf-5060-4e2f-8775-d5de3de57ad4" />
-
 Data Sources
 
 The data used in this dashboard includes:
