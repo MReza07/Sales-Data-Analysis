@@ -13,6 +13,7 @@ The goal is to help stakeholders make data-driven decisions that improve revenue
 📷 Dashboard Preview:
 
 <a href="https://github.com/MReza07/Sales-Data-Analysis/blob/main/Schreenshots/Sales%20Report.PNG">View Dashboard</a>
+
 Displays total revenue, total cost, total units sold, gross profit, and gross profit percentage.
 ​
 Yearly Revenue Analysis: Visualizes total revenue by year and breaks it down by product names and subcategories.
