@@ -29,12 +29,9 @@ Detailed Revenue Trends: Provides granular revenue data by date, month, and year
 ## Dataset
 <a href="https://github.com/MReza07/Sales-Data-Analysis/tree/main/Dataset">Download Dataset<a/>
 
-## data dictionary
+## Data dictionary
 
 <img width="1395" height="337" alt="image" src="https://github.com/user-attachments/assets/f583e399-9bfe-4d8a-800e-2bafcb610d13" />
-
-
-
 
 ## Data Highlights
 
