@@ -27,7 +27,7 @@ Quarterly and Monthly Growth Trends: Tracks quarter-to-quarter (QtQ) and month-o
 ​
 Detailed Revenue Trends: Provides granular revenue data by date, month, and year for deeper analysis. ​
 
-Data Highlights
+## Data Highlights
 
 Total Revenue: $126M ​
 
@@ -40,7 +40,7 @@ Gross Profit: $87M (69% Gross Profit Percentage) ​
 Revenue Growth: QtQ growth peaked at 36.67% in Q1 2017. ​
 
 
-Visualizations
+## Visualizations
 
 The dashboard includes:
 
