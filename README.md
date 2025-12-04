@@ -1,5 +1,8 @@
 📊 Sales Data Analysis — Interactive Power BI dashboard for revenue, profit, and growth analysis.
 
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-orange)
+
 A complete end-to-end Sales Analytics project designed to transform raw sales data into meaningful insights. This dashboard provides a clear view of sales trends, revenue performance, customer segments, product profitability, regional growth patterns, and KPI tracking to support strategic business decision-making.
 
 🚀 Project Overview
@@ -8,11 +11,6 @@ This project analyzes historical sales data to uncover key business metrics such
 The goal is to help stakeholders make data-driven decisions that improve revenue, optimize product strategy, and boost operational efficiency.
 
 📷 Dashboard Preview:
-
-![License](https://img.shields.io/badge/License-MIT-blue)
-
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-orange)
-
 
 <img width="859" height="867" alt="Sales Report" src="https://github.com/user-attachments/assets/ca58a674-53be-4211-b267-19dbbfd6a6b9" />
 
