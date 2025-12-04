@@ -13,12 +13,6 @@ The goal is to help stakeholders make data-driven decisions that improve revenue
 📷 Dashboard Preview:
 
 <a href="https://github.com/MReza07/Sales-Data-Analysis/blob/main/Schreenshots/Sales%20Report.PNG">View Dashboard</a>
-<a href="<img width="836" height="550" alt="Gross Profit By MOM Growth" src="https://github.com/user-attachments/assets/fff02f12-dcf0-4fa6-8a81-67fc40c332e8">Gross Profit By MOM Growth<a/>
-<img width="834" height="537" alt="Total Revenue By Year   Product name_breakdown" src="https://github.com/user-attachments/assets/808727a7-6fcd-40b8-8b3b-eb41241ca161" />
-<img width="601" height="472" alt="Total Revenue By QTQ Growth" src="https://github.com/user-attachments/assets/fafd22b4-f6ee-4a73-8b59-debebe32022e" />
-<img width="859" height="867" alt="Sales Report" src="https://github.com/user-attachments/assets/38b06d42-a788-48f0-9977-cc6d235afccf" />
-
-## Key Metrics Overview:
 Displays total revenue, total cost, total units sold, gross profit, and gross profit percentage.
 ​
 Yearly Revenue Analysis: Visualizes total revenue by year and breaks it down by product names and subcategories.
