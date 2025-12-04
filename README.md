@@ -31,7 +31,8 @@ Detailed Revenue Trends: Provides granular revenue data by date, month, and year
 
 ## data dictionary
 
-<img width="1395" height="337" alt="image" src="https://github.com/user-attachments/assets/16d5c690-0bd8-4026-b79f-6026fd15e86b" />
+<img width="1395" height="337" alt="image" src="https://github.com/user-attachments/assets/f583e399-9bfe-4d8a-800e-2bafcb610d13" />
+
 
 
 
