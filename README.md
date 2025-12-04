@@ -31,6 +31,23 @@ Detailed Revenue Trends: Provides granular revenue data by date, month, and year
 
 ## data dictionary
 
+ProductID	ProductName	Date	Units	RevenueDiscount	Category	Sales Rep Name	ProductName	RetailPrice	StandardCost
+4	Alder	2.1.2014	145	0.55	Special	Jan Novotny	Alder	23.95	7.55
+9	Linder	2.1.2014	142	0.55	General	John White	Linder	23.95	7.55
+2	Magnum	2.1.2014	135	0.55	General	Ellen Woody	Magnum	23.95	7.55
+10	Quad	2.1.2014	133	0.55	General	Mark Spancer	Quad	43.95	13.75
+3	Black Monk	2.1.2014	133	0.55	General	Ellie Gill	Black Monk	43.95	13.75
+9	Quad	2.1.2014	133	0.55	General	Bill Muray	Quad	43.95	13.75
+5	Bing	2.1.2014	131	0.55	General	El Bob	Bing	26.95	8.25
+6	VanHelen	2.1.2014	119	0.55	General	Jan Novotny	VanHelen	26.95	8.25
+11	Magnum	2.1.2014	118	0.55	Special	John White	Magnum	26.95	8.25
+3	Carlota	2.1.2014	117	0.55	Special	Ellen Woody	Carlota	29.95	9.15
+5	Carlota	2.1.2014	117	0.55	Special	Mark Spancer	Carlota	29.95	9.15
+6	Bing	2.1.2014	114	0.55	Special	Ellie Gill	Bing	26.95	8.25
+10	Carlota	2.1.2014	112	0.55	Special	Bill Muray	Carlota	29.95	9.15
+<img width="1395" height="337" alt="image" src="https://github.com/user-attachments/assets/57633f49-00f8-4529-94cd-4886af5a6a18" />
+
+
 ## Data Highlights
 
 Total Revenue: $126M ​
