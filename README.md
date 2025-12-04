@@ -12,6 +12,7 @@ The goal is to help stakeholders make data-driven decisions that improve revenue
 
 📷 Dashboard Preview:
 
+<a href="https://github.com/MReza07/Sales-Data-Analysis/tree/main/Schreenshots">View Dashboard</a>
 <a href="https://github.com/MReza07/Sales-Data-Analysis/blob/main/Schreenshots/Sales%20Report.PNG">View Dashboard</a>
 
 ## Key Metrics Overview:
