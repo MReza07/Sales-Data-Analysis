@@ -126,19 +126,14 @@ Shown customer segment insights to support targeted marketing
 
 Provided actionable insights for pricing, promotions, and inventory planning
 
-## Usage
+## How to Open
 
-1. Clone the repository
-2. 
-   `git clone https:<a href="//github.com/MReza07/Sales-Data-Analysis/tree/main/Report">Sales Data Analysis.pbix<a/>
+1. Clone repo
+   git clone https://github.com/MReza07/Sales-Data-Analysis.git
+2. Open `PBIX/Sales Data Analysis.pbix` in Power BI Desktop (latest).
+3.  Go to Home → Transform Data → Refresh to load latest dataset.
+4. If prompted, update data source to `Dataset/Dataset.xlsx` then Refresh.
 
-3. Open the file  
-   `Sales Data Analysis.pbix` in Power BI Desktop.
-
-4. Go to Home → Transform Data → Refresh to load latest dataset.
-
-5. Navigate between pages using left panel in Power BI.
-Data Sources
 
 ## 📜 License
 
