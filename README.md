@@ -52,7 +52,7 @@ Line Graphs: For QtQ and MOM growth trends.
 
 Tables: For detailed revenue and profit data by date, month, and year.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Power BI Desktop – Data modeling, visualization, DAX
 
@@ -62,7 +62,7 @@ Power Query – Data cleaning & transformation
 
 DAX Measures – KPI formulas and advanced calculations​
 
-📁 Project Structure
+## 📁 Project Structure
 
 │── Data/
 
@@ -78,7 +78,7 @@ DAX Measures – KPI formulas and advanced calculations​
 │── README.md
 
 
-📊 Dashboard Features
+## 📊 Dashboard Features
 
 Interactive filters for Region, Product, Customer Segment, Year, Category
 
@@ -102,7 +102,7 @@ Trend charts for monthly and quarterly patterns
 
 Regional maps for geographic sales insights
 
-📐 Sample DAX Measures
+## 📐 Sample DAX Measures
 
 Total Sales = SUM('Sales'[SalesAmount])
 
@@ -114,7 +114,7 @@ VAR CurrentYear = CALCULATE([Total Sales], YEAR('Sales'[OrderDate]) = MAX(YEAR('
 VAR LastYear = CALCULATE([Total Sales], YEAR('Sales'[OrderDate]) = MAX(YEAR('Sales'[OrderDate])) - 1)
 RETURN DIVIDE(CurrentYear - LastYear, LastYear)
 
-🧠 Key Outcomes
+## 🧠 Key Outcomes
 
 Identified top-selling regions and products contributing most to revenue
 
@@ -126,7 +126,7 @@ Shown customer segment insights to support targeted marketing
 
 Provided actionable insights for pricing, promotions, and inventory planning
 
-Usage
+## Usage
 
 1. Clone the repository
 2. 
@@ -140,13 +140,13 @@ Usage
 5. Navigate between pages using left panel in Power BI.
 Data Sources
 
-📜 License
+## 📜 License
 
 This project is released under the MIT License.
 
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
 
-👤 Contact
+## 👤 Contact
 
 For collaboration or dashboard development:
 
