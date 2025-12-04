@@ -26,6 +26,10 @@ Top Sales Representatives: Identifies the top-performing sales reps based on rev
 Quarterly and Monthly Growth Trends: Tracks quarter-to-quarter (QtQ) and month-over-month (MOM) growth percentages for revenue and gross profit. 
 ​
 Detailed Revenue Trends: Provides granular revenue data by date, month, and year for deeper analysis. ​
+## Dataset
+<a href="https://github.com/MReza07/Sales-Data-Analysis/tree/main/Dataset">Download Dataset<a/>
+
+## data dictionary
 
 ## Data Highlights
 
