@@ -45,7 +45,7 @@ ProductID	ProductName	Date	Units	RevenueDiscount	Category	Sales Rep Name	Product
 5	Carlota	2.1.2014	117	0.55	Special	Mark Spancer	Carlota	29.95	9.15
 6	Bing	2.1.2014	114	0.55	Special	Ellie Gill	Bing	26.95	8.25
 10	Carlota	2.1.2014	112	0.55	Special	Bill Muray	Carlota	29.95	9.15
-<img width="1395" height="337" alt="image" src="https://github.com/user-attachments/assets/57633f49-00f8-4529-94cd-4886af5a6a18" />
+
 
 
 ## Data Highlights
