@@ -12,7 +12,7 @@ The goal is to help stakeholders make data-driven decisions that improve revenue
 
 📷 Dashboard Preview:
 
-<a href="https://github.com/MReza07/Sales-Data-Analysis/blob/main/Schreenshots/Sales%20Report.PNG">Dataset</a>
+<a href="https://github.com/MReza07/Sales-Data-Analysis/blob/main/Schreenshots/Sales%20Report.PNG">Dashboard</a>
 
 Key Metrics Overview:
 Displays total revenue, total cost, total units sold, gross profit, and gross profit percentage.
