@@ -130,7 +130,7 @@ Provided actionable insights for pricing, promotions, and inventory planning
 
 1. Clone the repository
 2. 
-   `git clone https://github.com/MReza07/Sales-Data-Analysis/tree/main/Report
+   `git clone https:<a href="//github.com/MReza07/Sales-Data-Analysis/tree/main/Report">Sales Data Analysis.pbix<a/>
 
 3. Open the file  
    `Sales Data Analysis.pbix` in Power BI Desktop.
