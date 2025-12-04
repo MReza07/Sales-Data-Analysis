@@ -13,6 +13,13 @@ The goal is to help stakeholders make data-driven decisions that improve revenue
 📷 Dashboard Preview:
 
 <a href="https://github.com/MReza07/Sales-Data-Analysis/blob/main/Schreenshots/Sales%20Report.PNG">View Dashboard</a>
+<p float="left">
+  <img src="<img width="836" height="550" alt="Gross Profit By MOM Growth" src="https://github.com/user-attachments/assets/8877d038-3131-4cf3-a33c-fe2af0e00bf0" />
+" width="400" />
+  <img src="<img width="601" height="472" alt="Total Revenue By QTQ Growth" src="https://github.com/user-attachments/assets/65aeeadf-e840-408f-ba59-1edbfa422ce0" />
+" width="400" />Schreenshots
+</p>
+
 
 Displays total revenue, total cost, total units sold, gross profit, and gross profit percentage.
 ​
